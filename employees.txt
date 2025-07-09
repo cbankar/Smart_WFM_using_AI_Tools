@@ -1,0 +1,5 @@
+Alice Johnson;C, C++, Python;5
+Bob Smith;Java, SQL, HTML;3
+Carol White;Go, Rust, Docker;7
+David Brown;JavaScript, React, Node.js;4
+Eve Black;C#, .NET, Azure;6

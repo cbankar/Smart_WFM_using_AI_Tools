@@ -1,0 +1,8 @@
+Oscar Scott #155, Primary: JavaScript (72), 5, 65
+Julia Young #310, Primary: JavaScript (91), 10, 65
+Julia Young #30, Primary: JavaScript (99), 30, 64.5
+Ethan Brown #185, Primary: JavaScript (77), 5, 64.5
+Tina Davis #340, Primary: JavaScript (96), 10, 64.5
+Oscar Scott #215, Primary: JavaScript (82), 5, 64
+Julia Young #370, Primary: JavaScript (60), 10, 64
+Tina Davis #60, Primary: JavaScript (63), 30, 64

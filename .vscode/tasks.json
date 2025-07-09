@@ -1,0 +1,52 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe build active file",
+            "command": "C:\\MinGW\\MinGW\\bin\\g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-o",
+                "-I","C:/MinGW/curl-8.14.1_2-win64-mingw/include",
+                "-L","C:/MinGW/curl-8.14.1_2-win64-mingw/lib",
+                "-lcurl",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "compiler: C:\\MinGW\\MinGW\\bin\\g++.exe"
+        },
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe build active file",
+            "command": "C:\\MinGW\\MinGW\\bin\\g++.exe",
+            "args": [
+               
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-o",
+                "-I","C:/MinGW/curl-8.14.1_2-win64-mingw/include",
+                "-L","C:/MinGW/curl-8.14.1_2-win64-mingw/lib",
+                "-lcurl",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [],
+            "group": "build",
+            "detail": "compiler: C:\\MinGW\\MinGW\\bin\\g++.exe"
+        },
+      
+    ],
+    "version": "2.0.0"
+}
